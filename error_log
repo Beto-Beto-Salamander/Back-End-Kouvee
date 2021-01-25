@@ -1,0 +1,2 @@
+[25-May-2020 09:24:08 UTC] PHP Fatal error:  Cannot use [] for reading in /home/kouveexy/public_html/application/models/LaporanLayananModel.php on line 43
+[26-May-2020 17:13:05 Asia/Jakarta] PHP Fatal error:  Cannot redeclare LaporanModel::getDataPengadaanTahun() in /home/kouveexy/public_html/application/models/LaporanModel.php on line 144
